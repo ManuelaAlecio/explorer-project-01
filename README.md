@@ -10,6 +10,7 @@ This is an example of a website layout for a furniture store, or for any other p
 ## 🔨 Technologies
 * HTML
 * CSS
+* Git and GitHub
 
 ## 📄 License
 
